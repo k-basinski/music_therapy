@@ -1,38 +1,61 @@
-# Course template
+# Music Therapy and Psychology of Music
 
-To jest repo-template wykorzystywane do robienia nowych repo z zajęciami dydaktycznymi.
+This is the website for the course _Music Therapy and Psychology of Music_ taught in the year 2019/2020.
 
-## Aktualności
+## Contact
 
+My name is Krzysztof Basiński and I'm an assistant professor at the MUG Department of Psychology. 
 
-## Kontakt
+Reach me at krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
 
-Krzysztof Basiński
+Office hours and address - see <kbas.gumed.edu.pl>
 
-krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
+## Times and places
 
-Zakład Badań nad Jakością Życia
+Wednesdays, 2:15pm - 4:30pm:
 
-Ul Tuwima 15, pok. 312
+- February 26th 
+- March 4th 
+- March 11th 
+- March 25th 
+- April 1st
 
-Gdański Uniwersytet Medyczny
+Room CMN_1/D/02
 
+The coords for the entrance are [54.365253, 18.621252](https://goo.gl/maps/xfBP2Ex3PVUxZdrt8).
 
-## Wykłady
+## Course notes
 
 - [01](01.html)
 
 ## Syllabus
 
-[Klik](syllabus.pdf)
+[Click](https://esyllabus.gumed.edu.pl/subjects/18525/fetch_document/EN)
 
-## Literatura
+## Literature
 
-#### Książki
-
-
-#### Artykuły
+#### Books
 
 
-#### Wykłady on-line
 
+#### Articles
+
+
+#### On-line materials
+
+
+
+## Presentations
+
+To receive credit you need to prepare presentations in groups. The topics are:
+
+1. Nordoff-Robbins music therapy
+2. Guided Imagery in Music
+3. Orff Music Therapy
+3. Neurologic Music Therapy for motor functioning
+3. Neurologic Music Therapy for language
+3. Music Therapy in Psychiatric Patients, Geriatric Populations and Children
+3. Music Therapy in Alzheimers
+3. Enriched Acoustic Environment and tinnitus
+
+The groups should consist of 2-3 people. **Please write me an email with the names of people in your group and your topic if you have not done so already!**
