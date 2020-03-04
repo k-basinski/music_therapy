@@ -155,6 +155,7 @@ theme: white
 <audio controls>
   <source src="audio/hey_jude/jude_original.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
+<<<<<<< HEAD
 </audio>
 
 

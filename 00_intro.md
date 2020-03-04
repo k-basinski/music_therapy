@@ -23,7 +23,7 @@ theme: white
 	- March 4th 
 	- March 11th 
 	- March 25th 
-	- April 1st (this may not happen!)
+	- April 1st
 - Room CMN_1/D/02
 
 ### To recieve credit, you need to...

@@ -17,7 +17,6 @@ Talk in groups (5 min.):
 - In physics, sound is a vibration that propagates as a typically audible mechanical wave of pressure and displacement, through a medium such as air or water.
 - In physiology and psychology, sound is the reception of such waves and their perception by the brain.
 
----
 
 <img src="img/pressure.gif">
 
@@ -85,7 +84,6 @@ Talk in groups (5 min.):
 - Water: 1482 m/s
 - Steel: 5960 m/s
 - The speed of sound plays a crucial role in auditory perception of direction and acoustical environment detection
-
 
 ### Auditory scene
 
@@ -223,4 +221,3 @@ This is a **strict analogy** to the problem faced by our auditory systems.
 ### Auditory masking
 
 <img src="img/masking.png" width="80%">
-
