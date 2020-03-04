@@ -48,24 +48,5 @@ To receive credit you need to prepare presentations in groups. The topics are:
 7. ~~Music Therapy in Alzheimers~~
 8. Enriched Acoustic Environment and tinnitus
 
-#### Articles
-
-
-#### On-line materials
-
-
-
-## Presentations
-
-To receive credit you need to prepare presentations in groups. The topics are:
-
-1. Nordoff-Robbins music therapy
-2. Guided Imagery in Music
-3. Orff Music Therapy
-3. Neurologic Music Therapy for motor functioning
-3. Neurologic Music Therapy for language
-3. Music Therapy in Psychiatric Patients, Geriatric Populations and Children
-3. Music Therapy in Alzheimers
-3. Enriched Acoustic Environment and tinnitus
 
 The groups should consist of 2-3 people. **Please write me an email with the names of people in your group and your topic if you have not done so already!**

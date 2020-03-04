@@ -11,8 +11,31 @@ theme: white
 
 ### What is music
 
-- Art concerned with combining vocal or instrumental sounds for beauty of form or emotional expression, usually according to cultural standards of rhythm, melody, and, in most Western music, harmony. Both the simple folk song and the complex electronic composition belong to the same activity, music. Both are humanly engineered; both are conceptual and auditory, and these factors have been present in music of all styles and in all periods of history, throughout the world (Encyclopedia Britannica)
+<small>Art concerned with combining vocal or instrumental sounds for beauty of form or emotional expression, usually according to cultural standards of rhythm, melody, and, in most Western music, harmony. Both the simple folk song and the complex electronic composition belong to the same activity, music. Both are humanly engineered; both are conceptual and auditory, and these factors have been present in music of all styles and in all periods of history, throughout the world (Encyclopedia Britannica)</small>
+
+### What is music
+
 - Art form whose medium is sound (Wikipedia)
+
+### The sound of music
+
+--- 
+
+<img src="img/02_hey_jude_amplitude.png"  width="70%">
+
+<audio controls>
+  <source src="audio/hey_jude/jude_original.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
+---
+
+<img src="img/02_hey_jude_spectro.png"  width="70%">
+
+<audio controls>
+  <source src="audio/hey_jude/jude_original.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
 
 ### Key concepts
 
@@ -29,15 +52,17 @@ theme: white
 
 <img src="img/pitch.png">
 
-### Pitch
+### Original
 
 <audio controls>
   <source src="audio/hey_jude/jude_original.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>
 
+### Low pitch
+
 <audio controls>
-  <source src="audio/hey_jude/jude_low.m4a" type="audio/mpeg">
+  <source src="audio/hey_jude/jude_low.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>
 
@@ -67,25 +92,31 @@ theme: white
 - In modern (especially electronic) music – BPM
 - Meter:  4/4 (most pop music), 3/4 (waltz), 6/8, irregular meters – 7/8 (balkan, eastern music), 12/8 (blues shuffle)
 
-### Tempo
+### Original tempo
 
 <audio controls>
   <source src="audio/hey_jude/jude_original.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>
-<br>
+
+### Slower
+
 <audio controls>
-  <source src="audio/hey_jude/jude_slow.m4a" type="audio/mpeg">
+  <source src="audio/hey_jude/jude_slow.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>
-<br>
+
+### Faster
+
 <audio controls>
-  <source src="audio/hey_jude/jude_fast.m4a" type="audio/mpeg">
+  <source src="audio/hey_jude/jude_fast.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>
-<br>
+
+### Faster faster
+
 <audio controls>
-  <source src="audio/hey_jude/jude_fast_chip.m4a" type="audio/mpeg">
+  <source src="audio/hey_jude/jude_fast_chip.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>
 
@@ -102,61 +133,51 @@ theme: white
 
 - Chords are characteristic of western tonal music, some types of music do not use chords per se (i.e. modern atonal classical music, some types of folklore)
 
-### Harmony
+### Original
 
 <audio controls>
   <source src="audio/hey_jude/jude_original.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>
-<br>
+
+### Minor key
+
 <audio controls>
-  <source src="audio/hey_jude/jude_minor_scale.m4a" type="audio/mpeg">
+  <source src="audio/hey_jude/jude_minor_scale.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>
 
 ### Timbre and room sound
 
-<audio controls>
-  <source src="audio/hey_jude/jude_original.mp3" type="audio/mpeg">
-	Your browser does not support the audio element.
-</audio>
-<br>
-<audio controls>
-  <source src="audio/hey_jude/jude_highs.m4a" type="audio/mpeg">
-	Your browser does not support the audio element.
-</audio>
-<br>
-<audio controls>
-  <source src="audio/hey_jude/jude_lows.m4a" type="audio/mpeg">
-	Your browser does not support the audio element.
-</audio>
-<br>
-<audio controls>
-  <source src="audio/hey_jude/jude_reverb.m4a" type="audio/mpeg">
-	Your browser does not support the audio element.
-</audio>
-
-
-### The sound of music
-
---- 
-
-<img src="img/02_hey_jude_amplitude.png"  width="70%">
+### Original
 
 <audio controls>
   <source src="audio/hey_jude/jude_original.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>
 
----
-
-<img src="img/02_hey_jude_spectro.png"  width="70%">
+### Bright timbre
 
 <audio controls>
-  <source src="audio/hey_jude/jude_original.mp3" type="audio/mpeg">
+  <source src="audio/hey_jude/jude_highs.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
-<<<<<<< HEAD
 </audio>
+
+### Dark timbre
+
+<audio controls>
+  <source src="audio/hey_jude/jude_lows.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
+### Reverberation
+
+<audio controls>
+  <source src="audio/hey_jude/jude_reverb.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
+
 
 
 ### Music is all around us
@@ -236,41 +257,45 @@ Seven ways in which music can produce emotion:
 
 ### Brain stem reflex
 
-- A process whereby an emotion is induced by music because one or more fundamental acoustical characteristics of the music are taken by the brain stem to signal a potentially important and urgent event
+- One or more fundamental acoustical characteristics of the music are taken by the brain stem to signal a **potentially important and urgent event**
 - Sounds that are sudden, loud, dissonant, or feature fast temporal patterns induce arousal or feelings of unpleasantness in listeners
 - Such responses reflect the impact of auditory sensations – music as sound in the most basic sense
 
 
 ### Rhythmic entrainment
 
-- This refers to a process whereby an emotion is evoked by a piece of music because a powerful, external rhythm in the music influences some internal bodily rhythm of the listener (e.g. heart rate), such that the latter rhythm adjusts toward and eventually 'locks in' to a common periodicity
+- Emotion is evoked by a piece of music because a powerful, external rhythm in the music influences some internal bodily rhythm of the listener (e.g. heart rate).
+- The latter rhythm adjusts toward and eventually 'locks in' to a common periodicity
+
+### Rhythmic entrainment
+
 - The adjusted heart rate can then spread to other components of emotion such as feeling, through proprioceptive feedback
 - This may produce an increased level of arousal in the listener.
 
 
 ### Evaluative conditioning
 
-- This refers to a process whereby an emotion is induced by a piece of music simply because this stimulus has been paired repeatedly with other positive or negative stimuli
-- Thus, for instance, a particular piece of music may have occurred repeatedly together in time with a specific event that always made you happy (e.g., meeting your best friend)
+- Emotion is induced by music because this stimulus has been paired repeatedly with other positive or negative stimuli
+- Music may have occurred repeatedly together in time with a specific event that always made you happy (e.g., meeting your best friend)
 - Over time, through repeated pairings, the music will eventually come to evoke happiness even in the absence of the friendly interaction
 
 
 ### Emotional contagion
 
-- This refers to a process whereby an emotion is induced by a piece of music because the listener perceives the emotional expression of the music, and then “mimics” this expression internally, which by means of either peripheral feedback from muscles, or a more direct activation of the relevant emotional representations in the brain, leads to an induction of the same emotion
-
+- Emotion is induced by a piece of music because the listener perceives the emotional expression of the music, and then “mimics” this expression internally
+- This leads to an induction of the same emotion by means of either peripheral feedback from muscles, or a more direct activation of the relevant emotional representations in the brain. 
 
 ### Visual imagery
 
-- This refers to a process whereby an emotion is induced in a listener because he or she conjures up visual images (e.g., of a beautiful landscape) while listening to the music
+- Emotion is induced in a listener because he or she conjures up visual images (e.g., of a beautiful landscape) while listening to the music
 
 
 ### Episodic memory
 
-- This refers to a process whereby an emotion is induced in a listener because the music evokes a memory of a particular event in the listener’s life. This is sometimes referred to as the “Darling, they are playing our tune” phenomenon.
+- Emotion is induced in a listener because the music evokes a memory of a particular event in the listener’s life. This is sometimes referred to as the “_Darling, they are playing our tune_” phenomenon.
 
 
 ### Musical expectancy
 
-- This refers to a process whereby an emotion is induced in a listener because a specific feature of the music violates, delays, or confirms the listener’s expectations about the continuation of the music.
+- Emotion is induced in a listener because a specific feature of the music violates, delays, or confirms the listener’s expectations about the continuation of the music.
 
