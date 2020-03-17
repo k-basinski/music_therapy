@@ -29,8 +29,12 @@ The coords for the entrance are [54.365253, 18.621252](https://goo.gl/maps/xfBP2
 - [00 introduction](00_intro.html)
 - [01 sound](01_sound.html)
 - [02 music](02_music.html)
-- [03 music & medicine](03_medicine.html)
-- [04 music therapy](04_therapy.html)
+- [03 music & medicine](03_medicine.html) [screencast](https://youtu.be/9TnKO0gfqEw)
+- [04 music therapy](04_therapy.html) [screencast](https://youtu.be/ntdArkODMMY)
+
+## Screencasts
+
+[Screencasts](https://www.youtube.com/playlist?list=PLQooX7p8NEM7n_oElQHH0zSLEJmbI7XyK)
 
 ## Syllabus
 
