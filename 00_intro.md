@@ -11,25 +11,29 @@ theme: white
 - kbas.gumed.edu.pl
 - kbas.gumed.edu.pl/music_therapy
 
-### Office hours
-
-- Wednesdays, 10 - 11:30 AM
-- Ul. Tuwima 15, 3rd floor, room 312
 
 ### Course info
 
-- Wednesdays, 2:15pm - 4:30pm:
-	- February 26th 
-	- March 4th 
-	- March 11th 
-	- March 25th 
-	- April 1st
-- Room CMN_1/D/02
+- Mondays, 2:00pm - 4:15pm:
+	- November 30th
+	- December 7th
+	- December 14th
+	- December 21st (?)
+	- January 11th
+	- January 18th (?)
+- Same Zoom meeting everytime
 
 ### To recieve credit, you need to...
 
-- Attend classes (you can miss one)
-- Make a presentation in groups of 2-3
+- Attend classes (if you miss, you'll need to make up for it)
+- Make a presentation
+
+### Presentations
+
+- About 15-20 min.
+- In groups of 3-4
+- One representative sends me an email with your names and topic
+- I'm going to send over a paper 
 
 ### Presentations topics
 

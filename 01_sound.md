@@ -17,6 +17,7 @@ Talk in groups (5 min.):
 - In physics, sound is a vibration that propagates as a typically audible mechanical wave of pressure and displacement, through a medium such as air or water.
 - In physiology and psychology, sound is the reception of such waves and their perception by the brain.
 
+### Sound
 
 <img src="img/pressure.gif">
 
@@ -204,6 +205,10 @@ This is a **strict analogy** to the problem faced by our auditory systems.
 ### Loudness perception
 
 <img src="img/hearing_thresholds.png" width="80%">
+
+### Pure tone generator
+
+<https://www.szynalski.com/tone-generator/>
 
 ### Age and gender differences
 
